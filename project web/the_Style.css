@@ -1,0 +1,139 @@
+html,body{
+    background-color: #f0efe8;
+    margin: 0px;
+}
+.header{
+    display:flex;
+    justify-content: center;
+}
+.para{
+    font-size: 70px;
+
+    margin-top: 1%;
+    margin-left: 35%;
+}
+.that_written_thing{
+    background-color: crimson;
+
+    font-family:Lucida Sans;
+
+    border: 5px solid black;
+}
+.box{
+    display: flex;
+    flex-wrap:wrap;
+
+    justify-content: space-evenly;
+
+    margin-top: 50px;
+    
+    font-family: cursive;
+}
+.box img{
+    margin-top: 10%;
+    border-radius: 20px;
+
+    background-color: #f7f6ec;
+
+    border: 5px solid #927961;
+
+    transition: 0.25s;
+}
+.box img:hover{
+    padding: 30px;
+
+    transition: 0.25s;
+}
+.paper{
+    background-color: white;
+
+    border: 5px;
+    border-radius: 20px;
+
+    width: 310px;
+    margin-bottom: 50px;
+}
+.paper li{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.end{
+    display: flex;
+    justify-content: space-around;
+
+    margin-bottom: 30px;
+}
+.dad{
+    display: flex;
+    flex-wrap:wrap;
+
+    justify-content: space-around;
+
+    margin-right: 10%;
+    margin-left: 10%;
+    
+    font-family: cursive;
+}
+.dad p{
+    font-size: 40px;
+}
+.dad img{
+    margin-top: 10%;
+    border-radius: 20px ;
+
+    background-color: #f7f6ec;
+    
+    width: 200px;
+    margin-left: 10%;
+    transition: 0.25s;
+}
+.dad img:hover{
+    padding: 30px;
+
+    transition: 0.25s;
+}
+.ori{
+    background-color: white;
+
+    border: 5px;
+    border-radius: 20px;
+
+    margin-bottom: 50px;
+
+    text-align: center;
+}
+.boss{
+    display: flex;
+    flex-wrap:wrap;
+
+    justify-content: space-evenly;
+
+    margin-top: 50px;
+
+    font-family: cursive;
+}
+.boss img{
+    margin-top: 10%;
+    border-radius: 20px ;
+    border: 5px solid #927961;
+
+    background-color: #f7f6ec;
+    transition: 0.25s;
+}
+.boss img:hover{
+    padding: 30px;
+    transition: 0.25s;
+}
+.upper{
+    background-color: white;
+
+    border: 5px;
+    border-radius: 20px;
+
+    width: 310px;
+    margin-bottom: 50px;
+}
+.upper li{
+    margin-left: 10%;
+    margin-right: 10%;
+}
